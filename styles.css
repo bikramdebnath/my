@@ -1,0 +1,52 @@
+/***********TAG SELECTORS***********/
+body {
+  background-color: #e6fffd;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  border-style: none;
+  background-color: crimson;
+  color: #4caf50;
+}
+p {
+  text-transform: uppercase;
+  color: #e55807;
+}
+a {
+  text-transform: uppercase;
+  color: #5c469c;
+}
+h3 {
+  text-align: center;
+  border-style: groove;
+  width: 150px;
+  background-color: #b71375;
+  color: #4caf50;
+}
+th {
+  text-align: center;
+  background-color: gold;
+  color: #b71375;
+}
+td {
+  text-transform: uppercase;
+  color: #9b3e13;
+}
+form {
+  text-transform: uppercase;
+  color: #9b3e13;
+}
+li {
+  text-transform: uppercase;
+  color: #9b3e13;
+}
+h4 {
+  background-color: aquamarine;
+  width: 100px;
+}
